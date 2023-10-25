@@ -13,7 +13,7 @@
 <h3>Languages and Tools</h3>
 
 <ul>
-        <li>Nestjs - serverside Rect framework</li>
+        <li>Nestjs - serverside React framework</li>
         <li>Material UI - styling</li>
         <li>AXIOS - CRUD operations</li>
         <li>Redux - global store</li>
